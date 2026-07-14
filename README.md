@@ -186,7 +186,11 @@ A demonstration showcasing the complete recruitment workflow, including job post
 
 
 
-https://github.com/user-attachments/assets/8e95691a-11bc-4dbd-b8b7-64d1ef0cc15c
+
+
+
+https://github.com/user-attachments/assets/a016028f-76d7-4469-ac9a-ee93a53b4edc
+
 
 
 ---
